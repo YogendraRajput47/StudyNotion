@@ -1,5 +1,5 @@
 const BASE_URL = "https://studynotion-ofuz.onrender.com";
-console.log(BASE_URL);
+
 const  API_URL="/api/v1"
 // AUTH ENDPOINTS
 export const endpoints = {
