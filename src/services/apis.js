@@ -1,4 +1,4 @@
-const BASE_URL = "http://127.0.0.1:4000";
+const BASE_URL = "https://studynotion-ofuz.onrender.com";
 console.log(BASE_URL);
 const  API_URL="/api/v1"
 // AUTH ENDPOINTS
